@@ -2,6 +2,14 @@
 
 xinghelee 的 Homebrew tap。
 
+## 使用
+
+```sh
+brew tap xinghelee/tap
+```
+
+之后可直接 `brew install --cask <名称>` 安装以下软件。
+
 ## Berth
 
 Mac 原生 SSH 客户端,跳板机/端口转发/iCloud 同步:[xinghelee/Berth](https://github.com/xinghelee/Berth)
