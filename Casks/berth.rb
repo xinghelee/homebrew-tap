@@ -1,6 +1,6 @@
 cask "berth" do
-  version "1.6.1"
-  sha256 "0519bab37e9a4c6c422471b2fc788c9a151b1a9a793feb978aa1a89e75614a15"
+  version "1.7.0"
+  sha256 "5960089bbf01252a1e3284512ee1b0bd6b713b2c21acad81109e49f3c29072a1"
 
   url "https://github.com/xinghelee/Berth/releases/download/v#{version}/Berth-#{version}.dmg"
   name "Berth"
