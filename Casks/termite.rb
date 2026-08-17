@@ -1,6 +1,6 @@
 cask "termite" do
-  version "2.0.0"
-  sha256 "5b6dbee7ff012dcd7c463532bafcd6cf21bf5f26b2590fdc99d3712c62016ff0"
+  version "2.0.1"
+  sha256 "134c0745b96138d23b257168af60c87646cdac9bfbf976f109e7c1aaec9f360c"
 
   url "https://github.com/xinghelee/Termite/releases/download/v#{version}/Termite-#{version}.dmg"
   name "Termite"
