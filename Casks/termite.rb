@@ -1,6 +1,6 @@
 cask "termite" do
-  version "1.28"
-  sha256 "8940726325695d465796ae38575ae6aafe2830b181ccb2a55f21f4cdad9ed592"
+  version "2.0.0"
+  sha256 "5b6dbee7ff012dcd7c463532bafcd6cf21bf5f26b2590fdc99d3712c62016ff0"
 
   url "https://github.com/xinghelee/Termite/releases/download/v#{version}/Termite-#{version}.dmg"
   name "Termite"
@@ -12,7 +12,7 @@ cask "termite" do
     strategy :github_latest
   end
 
-  depends_on macos: :sequoia
+  depends_on macos: :tahoe
 
   app "Termite.app"
 
